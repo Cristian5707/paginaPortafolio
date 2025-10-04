@@ -6,9 +6,12 @@
     "repoUrl": "https://github.com/Cristian5707/AyPFigurasPHP"
     },
     {
-        "name": "Mi Segundo Proyecto",
-        "description": "Este es otro proyecto importante. Detalla los problemas que resuelve y cómo lo implementaste.",
-        "readmeUrl": "https://raw.githubusercontent.com/[TuUsuario]/[nombre-del-otro-repo]/main/README.md",
-        "repoUrl": "https://github.com/[TuUsuario]/[nombre-del-repositorio]"
+        "name": "Interfaz de control de un motor a pasos",
+        "description": "Una aplicacion de escritorio que permite el control del funcionamiento de un motor  pasos con ayuda de un driver y un arduino. Programado en Windows. Net Framework usando C#.",
+        "readmeUrl": "https://raw.githubusercontent.com/Cristian5707/InterfazDeControlDeMotorAPasos/main/README.md",
+        "repoUrl": "https://github.com/Cristian5707/InterfazDeControlDeMotorAPasos"
     }
 ]
+
+
+
