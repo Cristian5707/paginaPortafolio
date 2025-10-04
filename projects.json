@@ -1,0 +1,14 @@
+[
+    {
+    "name": "Calculadora de Figuras Geométricas",
+    "description": "Una aplicación web que calcula el área y perímetro de diversas figuras. Fue desarrollada con PHP puro, aplicando principios de Programación Orientada a Objetos para la lógica de cada figura.",
+    "readmeUrl": "https://github.com/Cristian5707/AyPFigurasPHP/blob/main/README.md",
+    "repoUrl": "https://github.com/Cristian5707/AyPFigurasPHP"
+    },
+    {
+        "name": "Mi Segundo Proyecto",
+        "description": "Este es otro proyecto importante. Detalla los problemas que resuelve y cómo lo implementaste.",
+        "readmeUrl": "https://raw.githubusercontent.com/[TuUsuario]/[nombre-del-otro-repo]/main/README.md",
+        "repoUrl": "https://github.com/[TuUsuario]/[nombre-del-repositorio]"
+    }
+]
